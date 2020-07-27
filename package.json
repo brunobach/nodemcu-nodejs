@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "venom-bot": "^1.1.2",
+    "websocket": "^1.0.31"
+  }
+}
